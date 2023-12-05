@@ -147,5 +147,5 @@ add to `"schemes": `
     "white": "#a6a69c",
     "brightWhite": "#c5c9c5",
     "name": "Kanagawa"
-}
+},
 
