@@ -7,7 +7,7 @@ add to `"schemes": `
 
 ## kanagawa dragon
 
-```bash
+```json
 {
     "background": "#0D0C0C",
     "black": "#0D0C0C",
@@ -30,5 +30,5 @@ add to `"schemes": `
     "selectionBackground": "#2A2A37",
     "white": "#DCD7BA",
     "yellow": "#FF9E3B"
-},```
+},
 
