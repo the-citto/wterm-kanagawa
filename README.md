@@ -1,13 +1,11 @@
 # wterm-kanagawa
-Kanagawa theme for Windows Terminal
+Kanagawa colours for Windows Terminal, from [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) [colors.lua](https://github.com/rebelot/kanagawa.nvim/blob/master/lua/kanagawa/colors.lua)
 
 
+writing a json like this is quite a monstruosity, but [it appears](https://windowsterminalthemes.dev/) that there's no better way than to copy and paste
 
-add to `"schemes": `
-
-(by default valid entries are reordered alphabetically anyway, including colour names)
-
-## kanagawa dragon
+## how-to
+add to `"schemes": ` in the Windows Terminal's `settings.jsonn`
 
 ```json
 {
@@ -63,7 +61,7 @@ add to `"schemes": `
     // lotusGreen2 = "#6e915f",
     // lotusGreen3 = "#b7d0ae",
     "green": "#76946A",
-    "brightGreen": "#8a9a7b",
+    "brightGreen": "#87a987",
     // winterYellow = "#49443C",
     // roninYellow = "#FF9E3B",
     // boatYellow1 = "#938056",
@@ -143,9 +141,9 @@ add to `"schemes": `
     // lotusWhite4 = "#e7dba0",
     // lotusWhite5 = "#e4d794",
     "foreground": "#a6a69c",
-    "cursorColor": "#a6a69c",
-    "white": "#a6a69c",
-    "brightWhite": "#c5c9c5",
+    "cursorColor": "#625e5a",
+    "white": "#7a8382",
+    "brightWhite": "#a6a69c",
     "name": "Kanagawa"
 },
 
