@@ -1,10 +1,18 @@
 # wterm-kanagawa
 Kanagawa colours for Windows Terminal, from [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) [colors.lua](https://github.com/rebelot/kanagawa.nvim/blob/master/lua/kanagawa/colors.lua)
 
+## baground image
+under `"profiles"` `"list"` add `"backgroundImage": <path-to-image>` to the profile
+
+additionally, `"backgroundImageOpacity": <value>` 
+
+the Penrose triangle [here](https://github.com/lexxx-c/wterm-kanagawa/blob/main/Penrose-dreieck-blue.png) has kanagawa blues 😉 and it's quite bright, so values close to `0.02`/`0.01` seem better
+
+## palette
+all kanagawa colours commented
 
 writing a json like this is quite a monstruosity, but [it appears](https://windowsterminalthemes.dev/) that there's no better way than to copy and paste
 
-## how-to
 add to `"schemes": ` in the Windows Terminal's `settings.jsonn`
 
 ```json
