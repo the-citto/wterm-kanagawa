@@ -4,9 +4,9 @@ Kanagawa colours for Windows Terminal, from [kanagawa.nvim](https://github.com/r
 ## baground image
 under `"profiles"` `"list"` add `"backgroundImage": <path-to-image>` to the profile
 
-additionally, `"backgroundImageOpacity": <value>` 
+[this](https://github.com/lexxx-c/wterm-kanagawa/blob/main/Penrose-dreieck-blue.png) Penrose triangle has kanagawa blues 😉 so better set
 
-the Penrose triangle [here](https://github.com/lexxx-c/wterm-kanagawa/blob/main/Penrose-dreieck-blue.png) has kanagawa blues 😉 and it's quite bright, so values close to `0.02`/`0.01` seem better
+`"backgroundImageOpacity": <value>` with values around `0.02`/`0.01` 
 
 ## palette
 all kanagawa colours commented
