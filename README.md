@@ -1,4 +1,8 @@
 # wterm-kanagawa
+
+[kanagawa.nvim extras windows_terminal.json](https://github.com/rebelot/kanagawa.nvim/blob/master/extras/windows_terminal.json)
+#
+
 Kanagawa colours for Windows Terminal, from [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) [colors.lua](https://github.com/rebelot/kanagawa.nvim/blob/master/lua/kanagawa/colors.lua)
 
 ## baground image
